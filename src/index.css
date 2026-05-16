@@ -1,0 +1,17 @@
+/* Bank / fintech styling — IBM Plex, monochrome navy, professional */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: #f5f7fa;
+  color: #0e1a2b;
+  font-family: 'IBM Plex Sans', 'Noto Sans TC', system-ui, sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  font-size: 15px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+button { font-family: inherit; cursor: pointer; border: none; outline: none; }
+input, select { font-family: inherit; }
