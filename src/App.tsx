@@ -42,7 +42,7 @@ export default function App() {
   return (
     <div className="bank">
       <header className="bank-head">
-        <a href="https://ai-class-summer.vercel.app/portfolio" className="back">
+        <a href="https://themakerscamp.com/portfolio" className="back">
           ← Portfolio
         </a>
         <div className="logo">
@@ -158,7 +158,7 @@ export default function App() {
 
       <footer className="bank-foot">
         <span>This work was made by AI / 你的孩子上完 4 週課,也能做出自己的版本</span>
-        <a href="https://ai-class-summer.vercel.app/#register" className="cta">
+        <a href="https://themakerscamp.com/#register" className="cta">
           AI 造物營
         </a>
       </footer>
